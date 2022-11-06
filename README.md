@@ -1,10 +1,8 @@
 # 주차장 대여 대출 서비스 
 
 <hr/>
-
-### [BE : ing9990](https://github.com/ing9990/EveryParking)
 ### [FE : NYH0227](https://github.com/NYH0227/everyparking-frontend)
-<hr/>
+
 
 - ## 내 정보
 
